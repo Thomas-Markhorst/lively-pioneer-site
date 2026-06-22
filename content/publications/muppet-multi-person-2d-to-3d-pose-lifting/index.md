@@ -3,7 +3,7 @@ title: "MuPPet: Multi-person 2D-to-3D Pose Lifting"
 authors:
   - Thomas Markhorst
   - Zhi-Yi Lin
-  - Joug Yeong Chew
+  - Jouh Yeong Chew
   - Jan van Gemert
   - Xucong Zhang
 author_notes:

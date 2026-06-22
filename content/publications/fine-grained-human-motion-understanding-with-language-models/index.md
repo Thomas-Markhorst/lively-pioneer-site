@@ -36,7 +36,7 @@ links:
   - type: slides
     url: ""
   - type: source
-    url: ""
+    url: https://thomas-markhorst.github.io/uploads/figmo_preprint.pdf
   - type: video
     url: ""
 image:
